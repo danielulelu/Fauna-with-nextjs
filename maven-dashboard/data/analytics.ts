@@ -1,6 +1,6 @@
 import { AnalyticsItem } from "./../types/analytics";
 
-const data: AnalyticsItem[] = [
+const ChartData: AnalyticsItem[] = [
   {
     name: "Jan",
     uv: 400,
