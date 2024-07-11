@@ -1,3 +1,4 @@
+
 import { AnalyticsItem } from "./../types/analytics";
 
 const ChartData: AnalyticsItem[] = [
@@ -74,3 +75,5 @@ const ChartData: AnalyticsItem[] = [
     amt: 1900,
   },
 ];
+
+export default ChartData;
